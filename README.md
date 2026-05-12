@@ -1,367 +1,295 @@
-ResumeSync-AI 🚀
-AI-Powered Resume Analysis & Interview Preparation Platform
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-SpringBoot-orange?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/AI-Groq%20%7C%20Gemini-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-MySQL-green?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Deploy-Render-black?style=for-the-badge&logo=render" />
-</p>
+<div align="center">
 
-🌟 Overview
-ResumeSync-AI is an intelligent AI-driven career assistant platform designed to help users:
+# 🚀 ResumeSync-AI
 
+### Intelligent AI-Powered Resume Analysis & Interview Preparation Platform
 
-Analyze resumes using AI
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SPRINGBOOT-BACKEND-green?style=for-the-badge&logo=springboot" />
+<img src="https://img.shields.io/badge/REACT-FRONTEND-blue?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/GROQ-AI-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GEMINI-INTEGRATION-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MYSQL-DATABASE-blue?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/JWT-AUTH-red?style=for-the-badge" />
 
+---
 
-Improve ATS compatibility
+## ⚡ AI Career Intelligence Platform
 
+### Optimizing resumes, generating interview preparation, ATS scoring, skill gap analysis, and smart career assistance using AI.
 
-Generate interview questions
+✨ Modern Full Stack Architecture  
+✨ AI-Powered Resume Optimization  
+✨ Interactive Dashboard Experience  
+✨ Personalized Interview Preparation  
 
+</div>
 
-Practice mock interviews
+---
 
+# 📖 About The Project
 
-Detect skill gaps
+ResumeSync-AI is an advanced AI-powered career assistant platform designed to help students, developers, and job seekers improve their resumes and prepare for interviews intelligently.
 
+The platform analyzes resumes using AI models, generates ATS optimization insights, compares resumes against job descriptions, identifies skill gaps, and provides personalized interview preparation.
 
-Generate cover letters
+It combines a modern futuristic frontend with a scalable Spring Boot backend and intelligent AI integrations to create a complete career growth ecosystem.
 
+---
 
-Optimize resumes based on job descriptions
+# ✨ Core Features
 
+## 📄 AI Resume Analysis
+- AI-powered resume evaluation
+- ATS compatibility scoring
+- Resume optimization suggestions
+- Keyword analysis
+- Smart resume insights
 
-The platform combines modern frontend design, AI-powered backend intelligence, and real-time career assistance into one seamless experience.
+---
 
-✨ Features
-📄 Resume Analysis
+## 🎯 Job Description Matching
+- Compare resume with JD
+- Match percentage analysis
+- Missing keyword detection
+- Skill gap identification
+- Optimization recommendations
 
+---
 
-AI-powered resume evaluation
+## 🎤 AI Interview Preparation
+- AI-generated interview questions
+- Technical + HR preparation
+- Personalized interview guidance
+- Smart interview roadmap
+- Career-focused preparation flow
 
+---
 
-ATS optimization scoring
+## 📊 Interactive Dashboard
+- Futuristic responsive UI
+- Real-time analytics
+- Resume activity tracking
+- Personalized dashboard insights
+- Dynamic AI metrics
 
+---
 
-Resume strength analysis
+## 🔐 Authentication & Security
+- JWT Authentication
+- Google OAuth Login
+- OTP Verification System
+- Password Reset Flow
+- Secure API handling
 
+---
 
-Keyword matching
+## 🧠 AI Integrations
+- Groq API Integration
+- Gemini AI Integration
+- Intelligent response generation
+- Smart recommendation system
 
+---
 
-Smart recommendations
+# 🖼️ Preview
 
+## 🌌 Dashboard UI
 
-🎯 Job Description Matching
-
-
-Compare resumes against job descriptions
-
-
-Skill gap identification
-
-
-Match percentage generation
-
-
-Missing keyword suggestions
-
-
-🎤 AI Interview Preparation
-
-
-AI-generated interview questions
-
-
-Technical + HR interview preparation
-
-
-Personalized interview roadmap
-
-
-Real-time interview guidance
-
-
-🧠 Smart Career Intelligence
-
-
-Skill gap analysis
-
-
-Resume optimization suggestions
-
-
-Cover letter generation
-
-
-Career growth insights
-
-
-🔐 Authentication & Security
-
-
-JWT Authentication
-
-
-Google OAuth Login
-
-
-Secure API integration
-
-
-OTP Email Verification
-
-
-Password reset system
-
-
-📊 Interactive Dashboard
-
-
-Modern futuristic UI
-
-
-Dynamic analytics
-
-
-Resume tracking
-
-
-User profile management
-
-
-AI-driven insights dashboard
-
-
-
-🖼️ Project Preview
-Dashboard UI
 <img width="100%" alt="ResumeSync Dashboard" src="https://raw.githubusercontent.com/Annshikaa/ResumeSync-AI/main/assets/dashboard-preview.png">
 
-🛠️ Tech Stack
-Frontend
+---
 
+# 🛠️ Tech Stack
 
-React.js
+## Frontend
+- React.js
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Modern UI Animations
 
+---
 
-Vite
+## Backend
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+- JWT Authentication
 
+---
 
-Tailwind CSS
+## Database
+- MySQL
 
+---
 
-Framer Motion
+## AI Services
+- Groq API
+- Gemini API
 
+---
 
-Modern UI Animations
+## Deployment
+- Render
+- Docker
+- Vercel
 
+---
 
-Backend
+# 📂 Project Structure
 
+```bash
+ResumeSync-AI/
+│
+├── frontend/
+│   ├── src/
+│   ├── pages/
+│   ├── components/
+│   └── layouts/
+│
+├── src/main/java/
+│   ├── controller/
+│   ├── service/
+│   ├── repository/
+│   ├── model/
+│   └── configuration/
+│
+├── src/main/resources/
+│   ├── static/
+│   ├── templates/
+│   └── application.properties
+│
+├── Dockerfile
+├── pom.xml
+└── render.yaml
+```
 
-Java
+---
 
+# ⚙️ Local Setup
 
-Spring Boot
+## 1️⃣ Clone Repository
 
+```bash
+git clone https://github.com/Annshikaa/ResumeSync-AI.git
+cd ResumeSync-AI
+```
 
-Spring Security
+---
 
+# 🔧 Backend Setup
 
-JWT Authentication
-
-
-REST APIs
-
-
-Database
-
-
-MySQL
-
-
-AI Integrations
-
-
-Groq API
-
-
-Gemini API
-
-
-Authentication
-
-
-Google OAuth2
-
-
-JWT
-
-
-OTP Verification
-
-
-Deployment
-
-
-Render
-
-
-Docker
-
-
-
-📂 Project Structure
-ResumeSync-AI/│├── frontend/│   ├── src/│   ├── components/│   ├── pages/│   └── layouts/│├── src/main/java/│   ├── controller/│   ├── service/│   ├── repository/│   ├── model/│   └── configuration/│├── src/main/resources/│   ├── static/│   ├── templates/│   └── application.properties│├── Dockerfile├── pom.xml└── render.yaml
-
-⚙️ Installation & Setup
-1️⃣ Clone Repository
-git clone https://github.com/Annshikaa/ResumeSync-AI.gitcd ResumeSync-AI
-
-🔧 Backend Setup
-Configure Environment Variables
 Create:
+
+```bash
 application-secret.properties
+```
+
 Add:
-spring.datasource.url=YOUR_DB_URLspring.datasource.username=YOUR_DB_USERNAMEspring.datasource.password=YOUR_DB_PASSWORDgroq.api.key=YOUR_GROQ_API_KEYgenKey=YOUR_GEMINI_API_KEYspring.security.oauth2.client.registration.google.client-id=YOUR_GOOGLE_CLIENT_IDspring.security.oauth2.client.registration.google.client-secret=YOUR_GOOGLE_CLIENT_SECRET
 
-Run Backend
+```properties
+spring.datasource.url=YOUR_DB_URL
+spring.datasource.username=YOUR_DB_USERNAME
+spring.datasource.password=YOUR_DB_PASSWORD
+
+groq.api.key=YOUR_GROQ_API_KEY
+genKey=YOUR_GEMINI_API_KEY
+
+spring.security.oauth2.client.registration.google.client-id=YOUR_GOOGLE_CLIENT_ID
+spring.security.oauth2.client.registration.google.client-secret=YOUR_GOOGLE_CLIENT_SECRET
+```
+
+Run backend:
+
+```bash
 ./mvnw spring-boot:run
+```
+
 Backend runs on:
+
+```bash
 http://localhost:8080
+```
 
-💻 Frontend Setup
-cd frontendnpm installnpm run dev
+---
+
+# 💻 Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
 Frontend runs on:
+
+```bash
 http://localhost:5173
+```
 
-🔑 Environment Variables
-VariableDescriptionGROQ_API_KEYGroq AI API KeyGEMINI_API_KEYGemini AI API KeyDB_URLMySQL Database URLDB_USERNAMEDatabase UsernameDB_PASSWORDDatabase PasswordGOOGLE_CLIENT_IDGoogle OAuth Client IDGOOGLE_CLIENT_SECRETGoogle OAuth Secret
+---
 
-🚀 Deployment
-Backend Deployment
+# 🚀 Deployment
 
+## Backend
+- Render
+- Docker Supported
 
-Render
+## Frontend
+- Vercel
+- Netlify
 
+---
 
-Docker Supported
+# 🔒 Security Features
 
+- JWT Authentication
+- Secure OAuth2 Login
+- OTP Verification
+- Protected APIs
+- Environment-based secret management
 
-Frontend Deployment
+---
 
+# 📈 Future Enhancements
 
-Vercel
+- 🎙️ Voice-based AI Interviews
+- 📹 Video Interview Analysis
+- 🤖 AI Resume Builder
+- 📄 Resume PDF Export
+- 📊 Advanced Analytics
+- 🌍 Multi-language Support
 
+---
 
-Netlify
+# 👩‍💻 Author
 
+## Anshika Jain
 
-
-🧠 AI Capabilities
-ResumeSync-AI leverages advanced AI models for:
-
-
-Resume understanding
-
-
-Skill extraction
-
-
-ATS scoring
-
-
-Personalized interview generation
-
-
-Career recommendation systems
-
-
-Smart resume optimization
-
-
-
-🔒 Security Features
-
-
-JWT Authentication
-
-
-OAuth2 Login
-
-
-Secure Password Reset
-
-
-OTP Verification
-
-
-Protected API Routes
-
-
-
-📈 Future Enhancements
-
-
-🎙️ Voice-based AI interviews
-
-
-📹 Video interview analysis
-
-
-🤖 AI Resume Builder
-
-
-📊 Advanced analytics dashboard
-
-
-🌍 Multi-language support
-
-
-📄 Export reports as PDF
-
-
-
-👩‍💻 Author
-Anshika Jain
-🎓 BTech CSE Student — VIT Bhopal University
+🎓 Integrated M.Tech CSE Student — VIT Bhopal University  
 💡 Passionate about AI, Full Stack Development & Intelligent Systems
-🔗 Connect With Me
 
+---
 
-GitHub: Annshikaa GitHub
+# 🔗 Connect With Me
 
+### GitHub
+https://github.com/Annshikaa
 
-LinkedIn: Anshika Jain LinkedIn
+### LinkedIn
+https://linkedin.com/in/anshika-jain-44672a250
 
+### Portfolio
+https://anshika-portfolio-seven.vercel.app/
 
-Portfolio: Portfolio Website
+---
 
+<div align="center">
 
+# ⭐ If you liked this project, consider starring the repository ⭐
 
-⭐ Support
-If you liked this project:
+Made with ❤️ by Anshika Jain
 
-
-⭐ Star this repository
-
-
-🍴 Fork the project
-
-
-🧠 Contribute improvements
-
-
-🚀 Share with others
-
-
-
-📜 License
-This project is licensed under the MIT License.
-
-<p align="center">
-  Made with ❤️ by Anshika Jain
-</p>
+</div>
