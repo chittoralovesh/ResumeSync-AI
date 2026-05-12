@@ -94,9 +94,14 @@ It combines a modern futuristic frontend with a scalable Spring Boot backend and
 
 # 🖼️ Preview
 
-## 🌌 Dashboard UI
+## 🌌 Homepage UI
 
-<img width="100%" alt="ResumeSync Dashboard" src="https://raw.githubusercontent.com/Annshikaa/ResumeSync-AI/main/assets/dashboard-preview.png">
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8479b219-cd1b-4bb1-a145-4cdc7963a492" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3aae43f4-6b08-4569-84d0-df41591fbc54" />
+
+
+## Dashboard UI
 
 ---
 
