@@ -111,22 +111,16 @@ It combines a modern futuristic frontend with a scalable Spring Boot backend and
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a0549640-4c9e-490b-91d6-db101af9686d" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d67e1804-0cb2-4a30-abf0-f91958b148c3" />
 
-## Interview Guide
+## Interview Guide UI
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b041efbe-9d3e-4e68-941a-5bf24b065c45" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/24a4c76b-e606-4a15-878b-2a630b2dc075" />
 
-## Skill Gap
+## Skill Gap UI 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/48e9cd3f-4b0f-4a4c-839c-54020f62d7f0" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ef1995f3-4d31-47c0-bf1e-9ec2d564b528" />
 
-
-
-
-
-
-
-
-
+## Cover Letter UI
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/662e91fd-8581-4a29-9071-93f12aa33e9f" />
 
 ---
 
