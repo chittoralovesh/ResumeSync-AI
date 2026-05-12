@@ -102,6 +102,12 @@ It combines a modern futuristic frontend with a scalable Spring Boot backend and
 
 
 ## Dashboard UI
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/dcea084f-8128-4442-85a0-a54f38096f71" />
+
+## 🛠️ Optimize Resume
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2c78c9d4-a4ca-4f92-a232-882db5d5dbb0" />
+
+
 
 ---
 
