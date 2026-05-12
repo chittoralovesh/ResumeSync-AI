@@ -1,0 +1,91 @@
+/* ── Premium loading screen ── */
+.loadani {
+  position:       fixed;
+  inset:          0;
+  display:        flex;
+  flex-direction: column;
+  align-items:    center;
+  justify-content:center;
+  z-index:        200;
+  background:     #03030c;
+  gap:            2rem;
+}
+
+/* Spinning arc ring */
+.loadanimation {
+  position:     relative;
+  width:        72px;
+  height:       72px;
+  border-radius:50%;
+  background:   transparent;
+  animation:    spin .9s linear infinite;
+}
+
+.loadanimation::before,
+.loadanimation::after {
+  content:      "";
+  position:     absolute;
+  inset:        0;
+  border-radius:50%;
+}
+
+.loadanimation::before {
+  background:   conic-gradient(transparent 35%, #00f3ff 60%, #9d4edd 100%);
+  padding:      3px;
+  -webkit-mask: radial-gradient(farthest-side, transparent calc(100% - 3px), #fff 0);
+  mask:         radial-gradient(farthest-side, transparent calc(100% - 3px), #fff 0);
+}
+
+.loadanimation::after {
+  background:   conic-gradient(transparent 35%, #00f3ff 60%, #9d4edd 100%);
+  padding:      3px;
+  -webkit-mask: radial-gradient(farthest-side, transparent calc(100% - 3px), #fff 0);
+  mask:         radial-gradient(farthest-side, transparent calc(100% - 3px), #fff 0);
+  filter:       blur(8px);
+  opacity:      0.6;
+}
+
+/* Inner dot */
+.capstart {
+  position:     absolute;
+  width:        10px; height: 10px;
+  border-radius:50%;
+  background:   #00f3ff;
+  top:          -5px; left: 50%;
+  transform:    translateX(-50%);
+  box-shadow:   0 0 12px #00f3ff, 0 0 24px rgba(0,243,255,0.5);
+}
+
+/* Dark fill */
+.loadblock {
+  position:     absolute;
+  inset:        3px;
+  border-radius:50%;
+  background:   #03030c;
+}
+
+/* Brand text */
+.loadani h1 {
+  font-family:  'Syne', system-ui, sans-serif;
+  font-size:    clamp(1.1rem, 3vw, 1.4rem);
+  font-weight:  800;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  background:   linear-gradient(90deg, #00f3ff 0%, #9d4edd 50%, #00f3ff 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color:        transparent;
+  animation:    colchange 3.5s linear infinite;
+  margin:       0;
+}
+
+@keyframes colchange {
+  0%   { background-position: 0%;   }
+  100% { background-position: 200%; }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg);   }
+  to   { transform: rotate(360deg); }
+}

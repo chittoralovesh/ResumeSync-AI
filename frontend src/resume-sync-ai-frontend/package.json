@@ -1,0 +1,36 @@
+{
+  "name": "resume-sync-ai-frontend",
+  "version": "1.0.0",
+  "description": "A premium AI-powered resume management platform.",
+  "main": "src/main.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "tailwindcss": "^3.0.0",
+    "framer-motion": "^5.0.0",
+    "gsap": "^3.0.0",
+    "lucide-react": "^0.0.0",
+    "lenis": "^1.0.0",
+    "vanta": "^0.5.0"
+  },
+  "devDependencies": {
+    "vite": "^3.0.0",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0"
+  },
+  "keywords": [
+    "resume",
+    "AI",
+    "frontend",
+    "react",
+    "tailwindcss"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

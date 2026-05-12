@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+body {
+  @apply bg-gray-900 text-white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-satoshi font-bold;
+}
+
+a {
+  @apply text-blue-400 hover:text-blue-300 transition-colors duration-300;
+}
+
+button {
+  @apply bg-gradient-to-r from-purple-500 to-blue-500 text-white font-semibold py-2 px-4 rounded-lg shadow-lg transition-transform transform hover:scale-105;
+}
+
+.card {
+  @apply bg-white bg-opacity-10 backdrop-blur-lg border border-gray-700 rounded-lg shadow-lg p-6 transition-transform transform hover:scale-105;
+}
+
+.glass-effect {
+  @apply bg-white bg-opacity-20 backdrop-blur-lg border border-gray-600 rounded-lg;
+}
+
+.loading-animation {
+  @apply animate-pulse;
+}

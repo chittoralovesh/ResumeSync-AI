@@ -1,0 +1,38 @@
+/* Global font stack — Space Grotesk from Google Fonts (loaded in index.css) */
+* {
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  font-weight: 400;
+  padding: 0;
+  margin:  0;
+}
+
+/* Toast overrides */
+.Toastify__toast {
+  border-radius: 14px !important;
+  background:    rgba(10, 10, 28, 0.92) !important;
+  backdrop-filter: blur(20px) !important;
+  border:        1px solid rgba(255,255,255,0.08) !important;
+  font-family:   'Space Grotesk', sans-serif !important;
+  font-size:     .875rem !important;
+  box-shadow:    0 8px 32px rgba(0,0,0,0.5) !important;
+}
+
+.Toastify__progress-bar {
+  background: linear-gradient(90deg, #00f3ff, #9d4edd) !important;
+}
+
+.Toastify__toast-icon svg {
+  fill: #00f3ff !important;
+}
+
+@media only screen and (max-width: 480px) {
+  .Toastify__toast-container {
+    padding:   0;
+    left:      auto;
+    top:       2%;
+    right:     3%;
+  }
+  .Toastify__toast {
+    border-radius: 12px !important;
+  }
+}
