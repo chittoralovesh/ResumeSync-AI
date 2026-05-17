@@ -290,9 +290,9 @@ http://localhost:5173
 
 # 👩‍💻 Author
 
-## Anshika Jain
+## LOVESH CHITTORA
 
-🎓 Integrated M.Tech CSE Student — VIT Bhopal University  
+🎓 Btech CSE Student — VIT Bhopal University  
 💡 Passionate about AI, Full Stack Development & Intelligent Systems
 
 ---
