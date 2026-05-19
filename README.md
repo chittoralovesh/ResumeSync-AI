@@ -290,28 +290,28 @@ http://localhost:5173
 
 # 👩‍💻 Author
 
-## Anshika Jain
-
-🎓 Integrated MTech CSE Student — VIT Bhopal University  
-💡 Passionate about AI, Full Stack Development & Intelligent Systems
 
 ## Lovesh Chittora
 
 🎓 Btech CSE Student — VIT Bhopal University  
 💡 Passionate about AI, Full Stack Development & Intelligent Systems
 
+## Anshika Jain
+
+🎓 Integrated MTech CSE Student — VIT Bhopal University  
+💡 Passionate about AI, Full Stack Development & Intelligent Systems
+
+
 ---
 
 # 🔗 Connect With Me
 
 ### GitHub
-https://github.com/Annshikaa
+https://github.com/ChittoraLovesh
 
 ### LinkedIn
-https://linkedin.com/in/anshika-jain-44672a250
+https://linkedin.com/in/loveshchittora
 
-### Portfolio
-https://anshika-portfolio-seven.vercel.app/
 
 ---
 
@@ -319,6 +319,6 @@ https://anshika-portfolio-seven.vercel.app/
 
 # ⭐ If you liked this project, consider starring the repository ⭐
 
-Made with ❤️ by Anshika Jain
+Made with ❤️ by Anshika Jain & Lovesh Chittora
 
 </div>
